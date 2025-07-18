@@ -1,4 +1,4 @@
-## Hey 👋, I'm (Kor)nel (Based in 🇵🇱) [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
+## Hey 👋, I'm (Kor)nel (Based in 🇵🇱)
 I like coding and currently mostly web dev, recently using Next.js, React and Tailwind CSS the most
 - I'm currently working on a cat cafè website 🐱 for [Kitku Cafè](https://www.instagram.com/kitku_cafe/)
 
@@ -12,12 +12,11 @@ I like coding and currently mostly web dev, recently using Next.js, React and Ta
 
 ### Find me elsewhere
 🌐 Check out my [website](https://www.heyimnel.dev/) for more about me and my work <br/>
-🧊 Also check my [Codeberg](https://codeberg.org/heyimnel) where i store my code
+🧊 Also check my [Codeberg](https://codeberg.org/heyimnel) where i also store my code
 
 ### Currently learning
 <img alt="typescript" src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=typescript&logoColor=white" height="28" /> <img alt="react" src="https://img.shields.io/badge/-45b8d8?style=flat-square&logo=react&logoColor=white" height="28" /> <img alt="next" src="https://img.shields.io/badge/-000000?style=flat-square&logo=next.js&logoColor=white" height="28" />
 
 
-## **Please do not upload my code to GitHub.**  
-> This account is for future use only. If I ever have to use GitHub, I will do so myself.  
-> **Do not mirror or copy my projects to GitHub without my explicit consent.**
+## **My Main Code Platform Is [Codeberg](https://codeberg.org/heyimnel).**  
+> Currently i only mirror my stuff to github as github is the largest, and the most popular- so having it is kinda beneficial as a dev.
